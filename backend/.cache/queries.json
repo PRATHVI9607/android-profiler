@@ -1,0 +1,97 @@
+{
+    "c440d57596fcfdcccddea2ce3c2fc4d711ab6b1ed9ff09149ef148540a95e023": {
+        "columns": [
+            "cpu",
+            "total_duration_ns"
+        ],
+        "rows": [
+            [
+                0,
+                9898775922
+            ],
+            [
+                1,
+                9897323615
+            ],
+            [
+                2,
+                9896800076
+            ],
+            [
+                3,
+                9896682768
+            ],
+            [
+                4,
+                9898057538
+            ],
+            [
+                5,
+                9892279153
+            ],
+            [
+                6,
+                9896589461
+            ],
+            [
+                7,
+                9800765307
+            ]
+        ]
+    },
+    "d496a901ba176cfb65668f44f8cd53c27be6e316d12a5af3368454fd15413716": {
+        "columns": [
+            "duration_ns",
+            "name"
+        ],
+        "rows": []
+    },
+    "73a8c68198197fc5e3f8612aff964e024990745369b39675745a92d2d21baa1e": {
+        "columns": [
+            "name",
+            "total_cpu_time_ns"
+        ],
+        "rows": [
+            [
+                "jp.pokemon.pokemontcgp",
+                10368653346
+            ],
+            [
+                "/system/bin/surfaceflinger",
+                4183025053
+            ],
+            [
+                "/vendor/bin/hw/android.hardware.audio.service-aidl.mediatek",
+                4164143218
+            ],
+            [
+                "/vendor/bin/hw/android.hardware.graphics.composer@3.3-service",
+                2757565186
+            ],
+            [
+                "/system/bin/audioserver",
+                1409050831
+            ],
+            [
+                "/vendor/bin/hw/android.hardware.sensors-service.multihal",
+                957288838
+            ],
+            [
+                "com.instagram.android",
+                824386283
+            ],
+            [
+                "system_server",
+                621938674
+            ],
+            [
+                "kworker/u17:2",
+                565280711
+            ],
+            [
+                "/system/bin/logd",
+                564146227
+            ]
+        ]
+    }
+}
