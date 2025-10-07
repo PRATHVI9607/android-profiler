@@ -44,14 +44,9 @@ def _save_custom_queries(queries: Dict[str, Dict]):
         json.dump(queries, f, indent=4)
 
 def get_all_queries() -> Dict[str, str]:
-    """Merges predefined queries with custom-saved queries."""
-    predefined = {
-        "cpu_usage_per_core": "SELECT cpu, SUM(dur) as total_duration_ns FROM sched GROUP BY cpu ORDER BY cpu;",
-        "top_10_processes_by_cpu": "SELECT process.name, SUM(dur) as total_cpu_time_ns FROM sched JOIN thread ON sched.utid = thread.utid JOIN process ON thread.upid = process.upid WHERE process.name IS NOT NULL GROUP BY process.name ORDER BY total_cpu_time_ns DESC LIMIT 10;",
-        "android_janky_frames": "SELECT dur as duration_ns, name FROM slice WHERE name LIKE 'Choreographer#doFrame%' AND dur > 16600000 ORDER BY dur DESC LIMIT 20;",
-    }
+    """Returns custom-saved queries."""
     custom_queries = {k: v['sql'] for k, v in _load_custom_queries().items()}
-    return {**predefined, **custom_queries}
+    return custom_queries
 
 def add_custom_query(name: str, sql: str):
     """Adds a new query to the custom queries file."""

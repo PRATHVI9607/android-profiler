@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtualenv
+venv/
+
+# Node
+frontend/node_modules/
+
+# Traces
+backend/traces/
+
+# Cache
+backend/.cache/
+
+# Tools
+perfetto_tools/
+
+# Credentials
+credentials.json
+.env

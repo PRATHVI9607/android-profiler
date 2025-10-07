@@ -48,18 +48,7 @@ async def start_trace_endpoint(req: TraceRequest, bg: BackgroundTasks):
 @app.get("/api/queries")
 def list_available_queries():
     """Lists all available queries, both predefined and custom."""
-    # Load custom queries to enrich the response
-    custom_queries = perfetto_utils._load_custom_queries()
-    all_queries = perfetto_utils.get_all_queries()
-    
-    response = []
-    for query_id, _ in all_queries.items():
-        is_custom = query_id in custom_queries
-        # Use the proper name for custom queries, otherwise format the ID
-        query_name = custom_queries.get(query_id, {}).get('name', query_id.replace("_", " ").title())
-        response.append({"query_id": query_id, "query_name": query_name, "custom": is_custom})
-        
-    return response
+    return perfetto_utils.get_all_queries()
 
 @app.post("/api/queries", status_code=status.HTTP_201_CREATED)
 async def add_query_endpoint(query: CustomQueryRequest):
