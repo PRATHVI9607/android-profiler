@@ -93,5 +93,891 @@
                 564146227
             ]
         ]
+    },
+    "cb8c01647b22cecf8e29c19cc620837c81d16a634f56e711507c6102f583659b": {
+        "columns": [
+            "cpu",
+            "total_duration_ns"
+        ],
+        "rows": [
+            [
+                0,
+                9905968307
+            ],
+            [
+                1,
+                9905488307
+            ],
+            [
+                2,
+                9905888000
+            ],
+            [
+                3,
+                9908450769
+            ],
+            [
+                4,
+                9903917538
+            ],
+            [
+                5,
+                9908903076
+            ],
+            [
+                6,
+                9903922999
+            ],
+            [
+                7,
+                9910086077
+            ]
+        ]
+    },
+    "c277900b28479af12f2dbe035fa2907e37a3daf203af03c2d1fc26a2a11c6fff": {
+        "columns": [
+            "cpu",
+            "total_duration_ns"
+        ],
+        "rows": [
+            [
+                0,
+                9900919384
+            ],
+            [
+                1,
+                9893028923
+            ],
+            [
+                2,
+                9902087769
+            ],
+            [
+                3,
+                9898355153
+            ],
+            [
+                4,
+                9898778846
+            ],
+            [
+                5,
+                9899344538
+            ],
+            [
+                6,
+                9760830076
+            ],
+            [
+                7,
+                9896347692
+            ]
+        ]
+    },
+    "82dd6171ae1c17eed5954b61cbb3f952ae0dd6d030164453b8e86f225be613b6": {
+        "columns": [
+            "duration_ns",
+            "name"
+        ],
+        "rows": [
+            [
+                106618692,
+                "Choreographer#doFrame 941660380"
+            ],
+            [
+                106524384,
+                "Choreographer#doFrame - resynced to 941660382 in 23.4ms"
+            ],
+            [
+                102877231,
+                "Choreographer#doFrame 941667725"
+            ],
+            [
+                102116308,
+                "Choreographer#doFrame - resynced to 941667839 in 29.0ms"
+            ],
+            [
+                72674154,
+                "Choreographer#doFrame 941660387"
+            ],
+            [
+                66933847,
+                "Choreographer#doFrame 941667623"
+            ],
+            [
+                62836923,
+                "Choreographer#doFrame 941666288"
+            ],
+            [
+                62747615,
+                "Choreographer#doFrame - resynced to 941666290 in 31.4ms"
+            ],
+            [
+                61001769,
+                "Choreographer#doFrame 941666295"
+            ],
+            [
+                51027693,
+                "Choreographer#doFrame 941661982"
+            ],
+            [
+                50943616,
+                "Choreographer#doFrame - resynced to 941661984 in 20.9ms"
+            ],
+            [
+                44356538,
+                "Choreographer#doFrame 941663078"
+            ],
+            [
+                42280307,
+                "Choreographer#doFrame 941661879"
+            ],
+            [
+                40223385,
+                "Choreographer#doFrame 941666520"
+            ],
+            [
+                39862538,
+                "Choreographer#doFrame 941660446"
+            ],
+            [
+                31096538,
+                "Choreographer#doFrame 941661902"
+            ],
+            [
+                30215770,
+                "Choreographer#doFrame 941662096"
+            ],
+            [
+                30131154,
+                "Choreographer#doFrame - resynced to 941662098 in 33.0ms"
+            ],
+            [
+                28806692,
+                "Choreographer#doFrame 941662110"
+            ],
+            [
+                28616616,
+                "Choreographer#doFrame 941662117"
+            ]
+        ]
+    },
+    "33fc92d8966da740282c3b1d2b528b7595104a72d35116b80b2470b7359c566a": {
+        "columns": [
+            "name",
+            "total_cpu_time_ns"
+        ],
+        "rows": [
+            [
+                "jp.pokemon.pokemontcgp",
+                6503814531
+            ],
+            [
+                "/system/bin/surfaceflinger",
+                5983100966
+            ],
+            [
+                "system_server",
+                5580162257
+            ],
+            [
+                "/vendor/bin/hw/android.hardware.audio.service-aidl.mediatek",
+                2811241536
+            ],
+            [
+                "/vendor/bin/hw/android.hardware.graphics.composer@3.3-service",
+                2770252594
+            ],
+            [
+                "com.android.systemui",
+                2017636104
+            ],
+            [
+                "com.miui.home",
+                1816571748
+            ],
+            [
+                "com.whatsapp",
+                1485594230
+            ],
+            [
+                "/system/bin/audioserver",
+                1156783839
+            ],
+            [
+                "kswapd0",
+                979394079
+            ]
+        ]
+    },
+    "a5cef8642d3cb4dca1d955d5e4e0591e8b5d6c537ad21f119c5e570f2ef506ba": {
+        "columns": [
+            "cpu",
+            "total_duration_ns"
+        ],
+        "rows": [
+            [
+                0,
+                9872329846
+            ],
+            [
+                1,
+                9872260307
+            ],
+            [
+                2,
+                9872898076
+            ],
+            [
+                3,
+                9869253307
+            ],
+            [
+                4,
+                9873805538
+            ],
+            [
+                5,
+                9871806076
+            ],
+            [
+                6,
+                9855744307
+            ],
+            [
+                7,
+                9844608845
+            ]
+        ]
+    },
+    "9b3574c39385e8aeee30c0f21582b9454575914eafdcd71c2a28f176e94c5c0f": {
+        "columns": [
+            "cpu",
+            "total_duration_ns"
+        ],
+        "rows": [
+            [
+                0,
+                9905288846
+            ],
+            [
+                1,
+                9864801538
+            ],
+            [
+                2,
+                9910099000
+            ],
+            [
+                3,
+                9877280384
+            ],
+            [
+                4,
+                9909663615
+            ],
+            [
+                5,
+                9900832692
+            ],
+            [
+                6,
+                9876944077
+            ],
+            [
+                7,
+                9911603385
+            ]
+        ]
+    },
+    "07895b2e9a461f3d2b57684b0f1ffaa1de5ac9ebb8882372c3945bfc430df84f": {
+        "columns": [
+            "name",
+            "total_cpu_time_ns"
+        ],
+        "rows": [
+            [
+                "system_server",
+                6575217349
+            ],
+            [
+                "jp.pokemon.pokemontcgp",
+                5596134155
+            ],
+            [
+                "/system/bin/surfaceflinger",
+                5537427393
+            ],
+            [
+                "com.miui.home",
+                3227277518
+            ],
+            [
+                "/vendor/bin/hw/android.hardware.audio.service-aidl.mediatek",
+                2564161938
+            ],
+            [
+                "/vendor/bin/hw/android.hardware.graphics.composer@3.3-service",
+                2164389507
+            ],
+            [
+                "com.android.systemui",
+                2007963151
+            ],
+            [
+                "/system/bin/audioserver",
+                1243215535
+            ],
+            [
+                "kswapd0",
+                865962004
+            ],
+            [
+                "com.mi.globalminusscreen",
+                807609455
+            ]
+        ]
+    },
+    "5428e04f145aa01d96310ead6a8b85352723488bb3668e292410797d835df791": {
+        "columns": [
+            "duration_ns",
+            "name"
+        ],
+        "rows": [
+            [
+                134549231,
+                "Choreographer#doFrame 941729168"
+            ],
+            [
+                134097846,
+                "Choreographer#doFrame - resynced to 941729299 in 24.5ms"
+            ],
+            [
+                127947615,
+                "Choreographer#doFrame 941733278"
+            ],
+            [
+                102166538,
+                "Choreographer#doFrame 941729175"
+            ],
+            [
+                82324308,
+                "Choreographer#doFrame 941733314"
+            ],
+            [
+                82193616,
+                "Choreographer#doFrame - resynced to 941733316 in 30.3ms"
+            ],
+            [
+                77052077,
+                "Choreographer#doFrame 941737614"
+            ],
+            [
+                70517923,
+                "Choreographer#doFrame 941739297"
+            ],
+            [
+                67632385,
+                "Choreographer#doFrame 941737642"
+            ],
+            [
+                67540923,
+                "Choreographer#doFrame - resynced to 941737645 in 29.5ms"
+            ],
+            [
+                58663923,
+                "Choreographer#doFrame 941734951"
+            ],
+            [
+                58495384,
+                "Choreographer#doFrame - resynced to 941734956 in 31.4ms"
+            ],
+            [
+                56181230,
+                "Choreographer#doFrame 941731806"
+            ],
+            [
+                52854769,
+                "Choreographer#doFrame 941739084"
+            ],
+            [
+                51477539,
+                "Choreographer#doFrame 941730621"
+            ],
+            [
+                51333230,
+                "Choreographer#doFrame - resynced to 941730623 in 17.8ms"
+            ],
+            [
+                47887923,
+                "Choreographer#doFrame 941739994"
+            ],
+            [
+                41951384,
+                "Choreographer#doFrame 941730562"
+            ],
+            [
+                37276616,
+                "Choreographer#doFrame 941733610"
+            ],
+            [
+                33444307,
+                "Choreographer#doFrame 941731798"
+            ]
+        ]
+    },
+    "6b27427bfc88de2d6ab7db264b0dcdd00e1dceb83a35f5e856790119b37db7cc": {
+        "columns": [
+            "cpu",
+            "total_duration_ns"
+        ],
+        "rows": [
+            [
+                0,
+                9874447692
+            ],
+            [
+                1,
+                9860614846
+            ],
+            [
+                2,
+                9868154461
+            ],
+            [
+                3,
+                9834536076
+            ],
+            [
+                4,
+                9835196999
+            ],
+            [
+                5,
+                9852238385
+            ],
+            [
+                6,
+                9832294846
+            ],
+            [
+                7,
+                9797962769
+            ]
+        ]
+    },
+    "38157febca09c69a5f5631d305d54d711d8ea95dea07063eb18a3cc304e4aaf1": {
+        "columns": [
+            "name",
+            "total_cpu_time_ns"
+        ],
+        "rows": [
+            [
+                "/system/bin/surfaceflinger",
+                1185007134
+            ],
+            [
+                "system_server",
+                1120779627
+            ],
+            [
+                "com.whatsapp",
+                536548230
+            ],
+            [
+                "/vendor/bin/hw/android.hardware.graphics.composer@3.3-service",
+                377445618
+            ],
+            [
+                "/system/bin/traced_probes",
+                324559608
+            ],
+            [
+                "com.android.systemui",
+                215328086
+            ],
+            [
+                "com.microsoft.appmanager",
+                182973946
+            ],
+            [
+                "com.pengyou.cloneapp",
+                114043223
+            ],
+            [
+                "kworker/u17:4",
+                105858549
+            ],
+            [
+                "com.instagram.android",
+                100429770
+            ]
+        ]
+    },
+    "a03f55cdf16c31081595f101c9912239aa05cbee6c0068052cdd12758f1555ce": {
+        "columns": [
+            "duration_ns",
+            "name"
+        ],
+        "rows": []
+    },
+    "d92a3488e8d06874a8a3a0d5a92599d6d2c2723dfdb5416f108cbe3d8e657bcb": {
+        "columns": [
+            "duration_ns",
+            "name"
+        ],
+        "rows": [
+            [
+                138387616,
+                "Choreographer#doFrame 942310158"
+            ],
+            [
+                138292308,
+                "Choreographer#doFrame - resynced to 942310161 in 21.7ms"
+            ],
+            [
+                133629154,
+                "Choreographer#doFrame 942314424"
+            ],
+            [
+                116930770,
+                "Choreographer#doFrame 942310165"
+            ],
+            [
+                111749231,
+                "Choreographer#doFrame 942310786"
+            ],
+            [
+                108445539,
+                "Choreographer#doFrame 942310779"
+            ],
+            [
+                79998846,
+                "Choreographer#doFrame 942311902"
+            ],
+            [
+                79908616,
+                "Choreographer#doFrame - resynced to 942311905 in 20.8ms"
+            ],
+            [
+                79253539,
+                "Choreographer#doFrame 942314460"
+            ],
+            [
+                79115154,
+                "Choreographer#doFrame - resynced to 942314462 in 26.1ms"
+            ],
+            [
+                67848538,
+                "Choreographer#doFrame 942316192"
+            ],
+            [
+                67696923,
+                "Choreographer#doFrame - resynced to 942316194 in 26.0ms"
+            ],
+            [
+                60994461,
+                "Choreographer#doFrame 942315925"
+            ],
+            [
+                60038385,
+                "Choreographer#doFrame 942311706"
+            ],
+            [
+                58837308,
+                "Choreographer#doFrame - resynced to 942311844 in 33.1ms"
+            ],
+            [
+                58581538,
+                "Choreographer#doFrame 942311647"
+            ],
+            [
+                55874770,
+                "Choreographer#doFrame 942314862"
+            ],
+            [
+                54311769,
+                "Choreographer#doFrame 942314620"
+            ],
+            [
+                47157308,
+                "Choreographer#doFrame 942310289"
+            ],
+            [
+                44956308,
+                "Choreographer#doFrame 942316073"
+            ]
+        ]
+    },
+    "cc1eed635e419e145de7310acb09c629ca118ee6895cc42c950e77b38dd97b39": {
+        "columns": [
+            "cpu",
+            "total_duration_ns"
+        ],
+        "rows": [
+            [
+                0,
+                9907147076
+            ],
+            [
+                1,
+                9905961231
+            ],
+            [
+                2,
+                9905128999
+            ],
+            [
+                3,
+                9906592538
+            ],
+            [
+                4,
+                9906307385
+            ],
+            [
+                5,
+                9908432923
+            ],
+            [
+                6,
+                9908715384
+            ],
+            [
+                7,
+                9909333462
+            ]
+        ]
+    },
+    "7a7d15d5299be0017d7540f88be3830931c0c21ea7d8443f51880209e1da734e": {
+        "columns": [
+            "name",
+            "total_cpu_time_ns"
+        ],
+        "rows": [
+            [
+                "jp.pokemon.pokemontcgp",
+                12859460593
+            ],
+            [
+                "/vendor/bin/hw/android.hardware.audio.service-aidl.mediatek",
+                5270389845
+            ],
+            [
+                "/system/bin/surfaceflinger",
+                3884037795
+            ],
+            [
+                "/vendor/bin/hw/android.hardware.graphics.composer@3.3-service",
+                2262311521
+            ],
+            [
+                "/system/bin/audioserver",
+                1536672306
+            ],
+            [
+                "system_server",
+                1506647857
+            ],
+            [
+                "/vendor/bin/hw/android.hardware.sensors-service.multihal",
+                1175694157
+            ],
+            [
+                "/system/bin/logd",
+                784669161
+            ],
+            [
+                "kworker/u17:2",
+                653688943
+            ],
+            [
+                "com.spotify.music",
+                618117707
+            ]
+        ]
+    },
+    "3ba3f5104b08021acafc8b288144c45129773405af660072161cdd1a88985df8": {
+        "columns": [
+            "duration_ns",
+            "name"
+        ],
+        "rows": []
+    },
+    "5de7ecb1c78ceb4e016e5377455e5dff15ca99f183fe632ff93d0382ca42f291": {
+        "columns": [
+            "cpu",
+            "total_duration_ns"
+        ],
+        "rows": [
+            [
+                0,
+                9781998277
+            ],
+            [
+                1,
+                9781877079
+            ],
+            [
+                2,
+                9707233849
+            ],
+            [
+                3,
+                9782272547
+            ],
+            [
+                4,
+                9208558068
+            ],
+            [
+                5,
+                9775883954
+            ],
+            [
+                6,
+                8771716454
+            ],
+            [
+                7,
+                7131895518
+            ]
+        ]
+    },
+    "ac731dde0e4596427db2e62d975230c19705835bc6d90950242b0b0eb248e471": {
+        "columns": [
+            "name",
+            "total_cpu_time_ns"
+        ],
+        "rows": [
+            [
+                "system_server",
+                4105945060
+            ],
+            [
+                "com.whatsapp",
+                3678382058
+            ],
+            [
+                "/system/bin/surfaceflinger",
+                3004296123
+            ],
+            [
+                "kswapd0",
+                1507062179
+            ],
+            [
+                "com.android.systemui",
+                1403031828
+            ],
+            [
+                "com.android.settings",
+                1349480616
+            ],
+            [
+                "/system/bin/vold",
+                1219467992
+            ],
+            [
+                "com.mi.appfinder:BranchSearch",
+                1201772385
+            ],
+            [
+                "/vendor/bin/hw/vendor.qti.hardware.display.composer-service",
+                1095002361
+            ],
+            [
+                "com.mi.android.globallauncher",
+                1052068989
+            ]
+        ]
+    },
+    "2f8281741bafcbe1b15a466abdb500c4800b055f8b48882458393203ec660380": {
+        "columns": [
+            "duration_ns",
+            "name"
+        ],
+        "rows": [
+            [
+                206784010,
+                "Choreographer#doFrame 77649951"
+            ],
+            [
+                206503645,
+                "Choreographer#doFrame - resynced to 77649953 in 25.0ms"
+            ],
+            [
+                119646927,
+                "Choreographer#doFrame 77652815"
+            ],
+            [
+                119563438,
+                "Choreographer#doFrame - resynced to 77652820 in 18.0ms"
+            ],
+            [
+                109244218,
+                "Choreographer#doFrame 77647947"
+            ],
+            [
+                108665260,
+                "Choreographer#doFrame - resynced to 77648180 in 22.5ms"
+            ],
+            [
+                106578906,
+                "Choreographer#doFrame 77649503"
+            ],
+            [
+                72067031,
+                "Choreographer#doFrame 77650626"
+            ],
+            [
+                71995104,
+                "Choreographer#doFrame - resynced to 77650628 in 28.2ms"
+            ],
+            [
+                64265885,
+                "Choreographer#doFrame 77647922"
+            ],
+            [
+                51876511,
+                "Choreographer#doFrame 77650389"
+            ],
+            [
+                49743072,
+                "Choreographer#doFrame 77650219"
+            ],
+            [
+                49654167,
+                "Choreographer#doFrame - resynced to 77650222 in 18.6ms"
+            ],
+            [
+                48511094,
+                "Choreographer#doFrame 77650420"
+            ],
+            [
+                48432239,
+                "Choreographer#doFrame - resynced to 77650423 in 23.1ms"
+            ],
+            [
+                46496250,
+                "Choreographer#doFrame 77649548"
+            ],
+            [
+                36632865,
+                "Choreographer#doFrame 77652958"
+            ],
+            [
+                35555469,
+                "Choreographer#doFrame - resynced to 77653159 in 33.1ms"
+            ],
+            [
+                27530312,
+                "Choreographer#doFrame 77649624"
+            ],
+            [
+                27460364,
+                "Choreographer#doFrame 77652478"
+            ]
+        ]
     }
 }

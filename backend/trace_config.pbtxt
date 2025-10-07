@@ -23,7 +23,6 @@ data_sources {
     }
 }
 
-# 2. Process Information (Essential for readable results)
 data_sources {
     config {
         name: "linux.process_stats"
